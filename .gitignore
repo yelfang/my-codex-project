@@ -11,3 +11,7 @@ build/
 .vscode/
 *.log
 tmp/
+
+# 日志目录和轮转日志
+logs/
+*.log.*
