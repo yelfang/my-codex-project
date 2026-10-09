@@ -1,0 +1,6 @@
+{
+  "name": "采知连 - 移动端知识管理",
+  "description": "智能企业知识管理 H5 应用，包含知识库、智能搜索、AI 问答、智能推荐与社区互动",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
