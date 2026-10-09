@@ -1,0 +1,13 @@
+# 依赖包
+node_modules/
+dist/
+build/
+
+# 环境变量、密钥！不要提交API密钥
+.env
+*.key
+
+# IDE缓存
+.vscode/
+*.log
+tmp/
